@@ -1,10 +1,5 @@
 [{
-    "title": "Aspen",
-    "description": "This is a trip to Aspen. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "image": "aspen.png"
-},
-{
-    "title": "Boulder",
-    "description": "This is a trip to Boulder. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "image": "boulder.png"
+    "title": "Japan",
+    "description": "In December of 2013, Juhi took a trip to Japan with her 6 of her close friends.",
+    "image": "japan.jpg"
 }]

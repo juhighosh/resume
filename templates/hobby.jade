@@ -2,10 +2,13 @@ h3 Hobby
 table.u-full-width
   thead
     tr
+      th Photos
       th Name
       th Experience
   tbody
   each hobby in contents['hobby.json'].metadata     
     tr
+      td 
+          img(src='images/' + hobby.image)
       td= hobby.name
       td= hobby.years + ' years'

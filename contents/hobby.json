@@ -1,7 +1,5 @@
 [{
-    "name": "skiing",
-    "years": 5
-}, {
-    "name": "cooking",
-    "years": 3
+    "name": "Bharatnatyam",
+    "years": 10,
+    "image": "dance.jpg"
 }]
